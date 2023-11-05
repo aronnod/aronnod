@@ -5,10 +5,8 @@ Computer Engineering student studying at Toronto Metropoliton University. <br>
 <h2>💻 Programming Projects:</h2>
 
 - <b>[C](https://github.com/aronnod/C) </b>
-- <b>Python </b>
-  -[Insert Python project] (link)
-- <b>Java </b>
-  -[Insert Java project] (link)
+- <b>[Python](https://github.com/aronnod/Python) </b>
+- <b>[Java](https://github.com/aronnod/Java) </b>
 
 <h2> 🗣️ Connect with me:</h2>
 
