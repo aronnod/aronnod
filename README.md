@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aronno! </h1>
-Computer Engineering student studying at Toronto Metropoliton University.
-This Github is acting as my portfolio, and most of my projects (major and minor) are uploaded here. They include projects in C, Python, and Java.
+Computer Engineering student studying at Toronto Metropoliton University. <br> 
+  This Github is acting as my portfolio, and most of my projects (major and minor) are uploaded here. They include projects in C, Python, and Java.
 
 <h2>💻 Programming Projects:</h2>
 
