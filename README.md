@@ -5,6 +5,7 @@ Computer Engineering student studying at Toronto Metropoliton University. <br>
 <h2>💻 Programming Projects:</h2>
 
 - <b>[C](https://github.com/aronnod/C) </b>
+  - [Dataset Diabetes Analysis](https://github.com/aronnod/Dataset-Diabetes-Analysis-in-C)
 - <b>[Python](https://github.com/aronnod/Python) </b>
 - <b>[Java](https://github.com/aronnod/Java) </b>
 
