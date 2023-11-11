@@ -30,5 +30,11 @@ Computer Engineering student studying at Toronto Metropoliton University. <br>
 
 <h2> 🗣️ Connect with me:</h2>
 
+[<img align="left" alt="Aronno Das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+
+[linkedin]: https://www.linkedin.com/in/aronno-das/
+
 <img align="left" alt="Aronno Das | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/542/542638.png" />
 aronnoshunting@gmail.com
+
+
