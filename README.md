@@ -1,8 +1,8 @@
 <h1>Hi, I'm Aronno! </h1>
 Computer Engineering student studying at Toronto Metropoliton University. <br> 
-  This Github is acting as my portfolio, and most of my projects (major and minor) are uploaded here. They include projects in C, Python, and Java.
+  This Github is acting as my portfolio, and some of my projects are uploaded here.
 
-<h2>💻 Programming Projects:</h2>
+<h2>💻 Software Programming Projects:</h2>
 
 - <b>[C](https://github.com/aronnod/C) </b>
   - [Dataset Diabetes Analysis](https://github.com/aronnod/Dataset-Diabetes-Analysis-in-C)
@@ -22,11 +22,19 @@ Computer Engineering student studying at Toronto Metropoliton University. <br>
   - [Automatic File Sorting System](https://github.com/aronnod/Python/blob/main/Automatic%20File%20Sorting%20System)
   - [Roman Numeral to Integer With GUI](https://github.com/aronnod/Python/blob/main/Roman%20Numeral%20to%20Integer%20With%20GUI)
   - [Automatically Track When You Open an Application](https://github.com/aronnod/Python/blob/main/Automatically%20Track%20When%20You%20Open%20an%20Application)
+
 - <b>[Java](https://github.com/aronnod/Java) </b>
   - [Bank Simulator](https://github.com/aronnod/Java/tree/Bank-Simulator)
   - [BlackJack](https://github.com/aronnod/Java/tree/Bank-Simulator)
   - [Base n Counter](https://github.com/aronnod/Java/tree/Counter)
   - [Complex Number](https://github.com/aronnod/Java/tree/Complex-Number)
+
+<h2>⚡️ Hardware Programming Projects:</h2>
+
+- <b>[VHDL](https://github.com/aronnod/VHDL) </b>
+  - [ASU](https://github.com/aronnod/VHDL/tree/ASU)
+  - [Combinational Circuits](https://github.com/aronnod/VHDL/tree/Combinational-Circuits)
+  - [Johnson Counter](https://github.com/aronnod/VHDL/tree/Johnson-Counter)
 
 <h2> 🗣️ Connect with me:</h2>
 
