@@ -35,6 +35,7 @@ Computer Engineering student studying at Toronto Metropoliton University. <br>
   - [ASU](https://github.com/aronnod/VHDL/tree/ASU)
   - [Combinational Circuits](https://github.com/aronnod/VHDL/tree/Combinational-Circuits)
   - [Johnson Counter](https://github.com/aronnod/VHDL/tree/Johnson-Counter)
+  - [GPU](https://github.com/aronnod/VHDL/tree/GPU)
 
 <h2> 🗣️ Connect with me:</h2>
 
