@@ -32,6 +32,9 @@ Computer Engineering student studying at Toronto Metropoliton University. <br>
 - <b>[Javascript](https://github.com/aronnod/Javascript) </b>
   - [Weather Web App](https://github.com/aronnod/Javascript/tree/Weather-App)
 
+- <b>[SQL](https://github.com/aronnod/SQL) </b>
+  - [Analysis of AirBnbs using SQL and Python]{https://github.com/aronnod/SQL/tree/AirBnB}
+
 <h2>⚡️ Hardware Programming Projects:</h2>
 
 - <b>[VHDL](https://github.com/aronnod/VHDL) </b>
